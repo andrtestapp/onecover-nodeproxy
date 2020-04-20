@@ -4,6 +4,6 @@
         "install": "npm install ./src/proxy"
     },
     "dependencies": {
-        "coverageproxy": "file:src/proxy"
+        "coverageproxy": "file:src/proxy123"
     }
 }
